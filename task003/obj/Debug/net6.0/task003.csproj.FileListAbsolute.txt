@@ -1,0 +1,15 @@
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\bin\Debug\net6.0\task003.exe
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\bin\Debug\net6.0\task003.deps.json
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\bin\Debug\net6.0\task003.runtimeconfig.json
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\bin\Debug\net6.0\task003.dll
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\bin\Debug\net6.0\task003.pdb
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.csproj.AssemblyReference.cache
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.AssemblyInfoInputs.cache
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.AssemblyInfo.cs
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.dll
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\refint\task003.dll
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.pdb
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\task003.genruntimeconfig.cache
+D:\Geek Brains\Знакомства с языками программирования #C\DZ3 C#\praca\task003\obj\Debug\net6.0\ref\task003.dll
